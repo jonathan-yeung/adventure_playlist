@@ -49,11 +49,15 @@ The playlist is called an "Adventure" playlist", and it contains a **customizabl
 * `model`
     - kmeans.pkl
 
+* `figures`
+
 * `.gitignore`
-    - Part of Git, includes files and folders to be ignored by Git version control
 
 * `environment.yml`
     - Conda environment specification
+
+* `requirements.txt`
+    - Dependencies for web app
 
 * `README.md`
     - Project landing page (this page)
