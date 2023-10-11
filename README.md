@@ -1,5 +1,6 @@
 ## "Adventure" Playlist - Music Recommendations For Variety And The Long Tail
 =========================
+
 The prototype demonstrated as a web app using Streamlit can be found at:
 https://adventureplaylist-ggka2gasbwumfp6puzsthw.streamlit.app/
 
