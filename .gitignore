@@ -75,9 +75,13 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
-.data/
+# exclude datasets not used in web app
+df_kmeans.csv
+df_track_cleaned.csv
+df_track_label.csv
+df_user_track.csv
+Music_Info.csv
+User_Listening_History.csv
 
 # Mac OS-specific storage files
 .DS_Store
@@ -85,5 +89,4 @@ target/
 # vim
 *.swp
 *.swo
-*.csv
 *.mp3
