@@ -44,6 +44,11 @@ The playlist is called an "Adventure" playlist, and it contains a **customizable
         - df_user_a.csv
         - algorithm.png
 
+* `figures`
+
+* `model`
+    - kmeans.pkl
+
 * `notebooks`
     - MusicRec_01_DataCleaning_EDA.ipynb
     - MusicRec_02_EDA.ipynb
@@ -52,21 +57,18 @@ The playlist is called an "Adventure" playlist, and it contains a **customizable
     - MusicRec_05_Recommendations.ipynb
     - MusicRec_06_Appendix_Dataframes.ipynb
 
-* `model`
-    - kmeans.pkl
-
-* `figures`
+* `streamlit`
+    - .py script for Streamlit web app
 
 * `.gitignore`
+
+* `README.md`
 
 * `env.yml`
     - Conda environment specifications
 
 * `requirements.txt`
     - Dependencies for web app
-
-* `README.md`
-
 
 
 ## Datasets
