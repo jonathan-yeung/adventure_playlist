@@ -27,7 +27,7 @@ This project is to explore and create a new playlist recommendation to discover 
 
 **This approach aims to find relevant but novel sounding tracks for users, and it uses only audio features and tags so that artists in the long-tail market could also be benefitted.**
 
-The playlist is called an "Adventure" playlist", and it contains a **customizable function for users to control the weighting of novelty** (against relevance) in the playlist when they want to adventure through the music in the database. The customization could be displayed as a slidebar in an actual app, and the users could control the playlist using the slidebar and see the playlist updating real-time.
+The playlist is called an "Adventure" playlist, and it contains a **customizable function for users to control the weighting of novelty** (against relevance) in the playlist when they want to adventure through the music in the database. The customization could be displayed as a slidebar in an actual app, and the users could control the playlist using the slidebar and see the playlist updating real-time.
 
 
 ## Project Organization
