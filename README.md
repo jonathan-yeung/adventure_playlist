@@ -64,7 +64,7 @@ The playlist is called an "Adventure" playlist", and it contains a **customizabl
     - Dependencies for web app
 
 * `README.md`
-    - Project landing page (this page)
+
 
 
 ## Datasets
