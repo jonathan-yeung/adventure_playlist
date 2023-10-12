@@ -59,8 +59,8 @@ The playlist is called an "Adventure" playlist, and it contains a **customizable
 
 * `.gitignore`
 
-* `environment.yml`
-    - Conda environment specification
+* `env.yml`
+    - Conda environment specifications
 
 * `requirements.txt`
     - Dependencies for web app
