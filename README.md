@@ -17,7 +17,7 @@ When music listeners use music streaming platforms, they might have experience o
 
 **Artist side - "cold-start" problem for the long tail**
 
-The market of artists (meaning musicians, used interchangeably) is a long-tail one in terms of popularity or the number of followers, which means there is actually a large amount of artists if you cut out the long tail. Inside the long tail, you could easily find that there are a lot of independent artists, niche artists and new comers. They might often encounter the cold-start problem, which means that their tracks might be at a disadvantaged position in the recommender system. A recommender algorithm that could **pick up audio features but not certain kinds of track record** and make recommendations could be more beneficial to the artists.
+The market of artists (meaning musicians, used interchangeably) is a long-tail one in terms of popularity or the number of followers, which means there is actually a large amount of artists if you cut out the long tail. Inside the long tail, you could easily find that there are a lot of independent artists, niche artists and new comers. They might often encounter the cold-start problem, which means that they did not have much data to be picked up by the algorithm and their tracks might be at a disadvantaged position in the recommender system. A recommender algorithm that could **pick up audio features but not certain kinds of track record** and make recommendations could be more beneficial to the artists.
 
 ### Proposed Solution (Prototype)
 
