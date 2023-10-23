@@ -1,11 +1,22 @@
-## "Adventure" Playlist - Music Recommendations For Variety And The Long Tail
-=========================
+# "Adventure" Playlist - Music Recommendations For Variety And The Long Tail
 
-The prototype demonstrated as a web app using Streamlit can be found at:
+## Executive Summary
+Users' demands:
+- want more new sounds
+- want a tool to find their own niche music
+
+Artists' demands:
+- long-tail artists want more exposure
+- want a tool to find fans in their niche
+
+To address these, I created the "Adventure" Playlist to find "relevant but novel" music tracks for users. The algorithm uses only audio features and tags to discover music content. I also added a slide bar for users to control the novelty weight for their own taste.
+
+Demo slides:
+https://www.canva.com/design/DAFwy7Bk07A/pl5CcIIf4YJypXkUNY6Szg/watch?utm_content=DAFwy7Bk07A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Streamlit web app:
 https://adventureplaylist-ggka2gasbwumfp6puzsthw.streamlit.app/
 
-Demo presentation slides of the prototype can be found at:
-https://www.canva.com/design/DAFwy7Bk07A/pl5CcIIf4YJypXkUNY6Szg/watch?utm_content=DAFwy7Bk07A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Project Overview
 
